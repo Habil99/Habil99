@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Habil</h1>
 <h3 align="center">I am a a self-taught front-end developer from Azerbaijan.</h3>
 
-- 🔭 I’m currently working on [Nobel Oil](https://nobeloil.azurewebsites.net/)
+- 🔭 I’m currently working on [Wedo](https://cabinet.wedo.az/client)
 
 - 🌱 I’m currently learning **React Advanced Topics and Next js**
 
