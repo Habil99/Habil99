@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Habil</h1>
 <h3 align="center">I am a a self-taught front-end developer from Azerbaijan.</h3>
 
-- 🔭 I’m currently working on [Wedo](https://cabinet.wedo.az/client)
+- 🔭 I’m currently working on [Novbeaz]
 
-- 🌱 I’m currently learning **React Advanced Topics and Next js**
+- 🌱 I’m currently learning **Algorithms and Data Structures**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Habil99/](https://github.com/Habil99/)
 
