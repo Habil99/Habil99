@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Confidential Project😉]()
 
-- 🌱 I’m currently learning **Algorithms and Data Structures**
+- 🌱 I’m currently learning **Java and Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Habil99/](https://github.com/Habil99/)
 
