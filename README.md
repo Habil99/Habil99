@@ -3,17 +3,15 @@
 
 - 🔭 I’m currently working on [Confidential Project😉]()
 
-- 🌱 I’m currently learning **Java and Spring Boot**
+- 🌱 I’m currently learning **Node js and AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Habil99/](https://github.com/Habil99/)
 
-- 📝 I regularly write articles on [https://habil99.medium.com/](https://habil99.medium.com/)
+- 📝 I rarely write articles on [https://habil99.medium.com/](https://habil99.medium.com/)
 
 - 💬 Ask me about **Whatever you want about me.**
 
-- 📫 How to reach me **abiyevhabil3@gmail.com**
-
-- 📄 Know about my experiences [https://docdro.id/gpa8gHX](https://docdro.id/gpa8gHX)
+- 📫 How to reach me **habil.abiyev.dev@gmail.com**
 
 - ⚡ Fun fact **I love to play guitar**
 
