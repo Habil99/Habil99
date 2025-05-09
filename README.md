@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Habil Abiyev</h1> <h3 align="center">A Front-end Developer passionate about building high-performance, scalable applications from Azerbaijan.</h3>
+<h1 align="center">Hi 👋, I'm Habil Abiyev</h1> <h3 align="center">A Front-end Engineer passionate about building high-performance, scalable applications from Azerbaijan.</h3>
+
 🔭 I’m currently working as a Senior Front-end Engineer at Xsolla.
 
 🌱 I’m expanding my skills in Node.js and AWS to grow as a full-stack developer.
